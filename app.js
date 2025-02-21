@@ -173,7 +173,6 @@ console.log('Exercise 2 correct result: ', [
   { first: 'Hanna', last: 'Hammarström' },
 ]);
 
-
 // =========================  Exercise 3 : Array.prototype.sort() =========================
 
 /*
